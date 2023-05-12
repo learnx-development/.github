@@ -1,5 +1,6 @@
-## Introducing LearnX
+![Title 2](https://github.com/learnx-development/.github/assets/66583686/206da5f3-6148-44e7-a9a3-d5fc1fe1e51d)
 
+## Introducing LearnX
 
 LearnX is a next-generation LMS that revolutionizes the way educators and learners interact with the learning process. By addressing the limitations of traditional LMS platforms, LearnX offers a more efficient, flexible, and customizable experience for users. With a focus on usability, LearnX provides a clean, intuitive interface, making it easy for users to navigate, manage content, and track their progress.
 
